@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Simple GL Rotations" package="org.openfl.lime.samples.simpleimage" version="1.0.0" company="OpenFL" />
+	<app main="Main" path="Export" file="SimpleGLRotations" />
+	
+	<source path="Source" />
+	
+	<haxelib name="lime" />
+	
+	
+</project>
